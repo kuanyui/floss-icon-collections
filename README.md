@@ -13,4 +13,6 @@ Mainly be used in [tango-icon-remixer](https://github.com/kuanyui/tango-icon-rem
 ## Inkscape
 - [repo](https://gitlab.com/inkscape/inkscape/-/tree/master/share/icons?ref_type=heads)
 - Icon Pack
-  - `InkscapeTango` (GPL v2)
+  - `InkscapeTango` (GPL v2?)
+- Donno why it was removed from repo of Inkscape since 2025/07/01
+  https://gitlab.com/inkscape/inkscape/-/commit/7f2369a6a64088d070894110333ec8bdb6cc5372
