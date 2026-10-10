@@ -3,6 +3,11 @@ Collection of some existed tango-flavoured icon packs taken from some FLOSS proj
 
 Mainly be used in [tango-remixer](https://github.com/kuanyui/tango-remixer/)
 
+> [!TIP]
+> To use these icons in a Qt (or GTK) project, see [Tango Remixer](https://kuanyui.github.io/tango-remixer/).
+>
+> You can also browse all icons in its [icon viewer](https://kuanyui.github.io/tango-remixer/viewer/).
+
 # Source Project
 ## GIMP
 - [Source repo](https://gitlab.gnome.org/GNOME/gimp-data/-/tree/main/icons?ref_type=heads)
