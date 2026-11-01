@@ -1,0 +1,10 @@
+# Where ../../../LibreOfficeElementary/ comes from.
+# `python3 upstream/LibreOffice/sync.py Elementary` updates the commit.
+repository       https://github.com/LibreOffice/core.git
+branch           master
+path             icon-themes/elementary_svg
+commit           195620c27479b88b5e4a5a90a59777298d8b6282
+# The old branch whose resource files (*.src) tell what short file names such as lc039 stand for.
+# It does not change any more.
+legacy-branch    libreoffice-5-1
+legacy-commit    3777a393b44bafc4168efaaefccfe00c64a810b7
