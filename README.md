@@ -1,7 +1,10 @@
 # floss-icon-collections
-Collection of some existed tango-flavoured icon packs taken from some FLOSS projects.
 
-Mainly be used in [tango-remixer](https://github.com/kuanyui/tango-remixer/)
+Collection of some existed tango-flavoured icon packs taken from some FLOSS projects (GIMP, Inkscape, LibreOffice).
+
+On the **upstreams** of these projects, the directory structure of these icons were **not** following to [XDG Icon Theme Specification](https://specifications.freedesktop.org/icon-theme/latest/). **This project is mean to rearrange them into the standard XDG-compatible icon theme directory structure**, which can be seamlessly directly used in the scenarios which follows XDG standard (For example, Qt's `QIcon::fromTheme()`).
+
+I created this project mainly for [tango-remixer](https://github.com/kuanyui/tango-remixer/).
 
 > [!TIP]
 > To use these icons in a Qt (or GTK) project, see [Tango Remixer](https://kuanyui.github.io/tango-remixer/).
